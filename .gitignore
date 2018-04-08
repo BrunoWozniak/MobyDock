@@ -48,5 +48,9 @@ docs/_build/
 *.tmproject
 tmtags
 
+# Vagrant stuff
+.vagrant
+Vagrantfile
+
 # App ignores.
 instance/settings.py
